@@ -146,3 +146,15 @@ main {
     font-weight: 700;
     margin-top: 0;
 }
+
+#what-i-do-description {
+    color: rgb(117, 117, 117);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding: 30px 150px;
+}
+
+.skill-container {
+    display: flex;
+}
